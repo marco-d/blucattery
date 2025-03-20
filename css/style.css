@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
+body {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(139, 121, 157);
+  }
+
+/* <weight>: Use a value from 200 to 800
+<uniquifier>: Use a unique and descriptive class name */
+
+.newsreader-heading {
+        font-family: "Newsreader", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        color: rgb(139, 121, 157);
+}
+
+h2, h3, h4 { 
+    font-family: "Newsreader", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(139, 121, 157);
+
+}
+
+.themecolor {
+    color: rgb(139, 121, 157);
+}
+
+.bg-catterycolor {
+    background-color: rgba(139, 121, 157, 0.36);
+    color: white;
+}
