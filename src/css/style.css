@@ -19,10 +19,11 @@ body {
 .newsreader-heading {
         font-family: "Newsreader", serif;
         font-optical-sizing: auto;
-        font-weight: 500;
+        font-weight: 400;
         font-style: normal;
         color: rgb(139, 121, 157);
 }
+
 
 h2, h3, h4 { 
     font-family: "Newsreader", serif;
@@ -40,4 +41,9 @@ h2, h3, h4 {
 .bg-catterycolor {
     background-color: rgba(139, 121, 157, 0.36);
     color: white;
+}
+
+.logos {
+    max-width: 60px;
+    height: auto;
 }

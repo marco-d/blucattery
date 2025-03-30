@@ -9,25 +9,11 @@
             <!-- Menu di navigazione -->
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto themecolor">
+                    {% for item in collections.bricks %}
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="#{{ item.data.shortname }}">{{ item.data.navtitle }}</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#intro">über von Blumenberg</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#katzen">Katzen</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#welpen">Kitten</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#gallery">Gallery</a>
-                    </li>
-
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Kontakt</a>
-                    </li>
+                    {% endfor %}
                 </ul>
             </div>
         </div>
