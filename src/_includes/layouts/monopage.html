@@ -1,0 +1,37 @@
+{% extends "layouts/base.html" %}
+
+{% block maintitle %}
+{{ title }}
+{% endblock %}
+
+{% block payoff %}
+{{ payoff }}
+{% endblock %}
+
+{% block contentstack %}
+{% for item in collections.bricks %}
+
+<main class="p-2">
+    <section class="container-fluid bg-light p-2" id="{{ item.data.shortname }}">
+      <div class="row">
+        <div class="col-sm-4">
+          <h3>{{ item.data.title }}</h3>
+          <p> {{ item.data.summary }}</p>
+          <p> {{ item.content | safe }}</p>
+        </div>
+        <div class="col-sm-8">
+          <figure>
+          <img src="img/Milou_0001.jpg" class="img-fluid" alt="">
+          <figcaption>Milou, geboren im November 2022.</figcaption>
+        </figure>
+        </div>
+      </div>
+      
+    </section>
+{% endfor %}
+{{ content | safe }}
+{% endblock %}
+
+{% block footerinfo %}
+{{ footinfo }}
+{% endblock %}
