@@ -28,7 +28,7 @@ Die FFH ist von der *Fédération Internationale Féline (FIFe)* als einziger Ve
             </figure>
             <figure class="col-sm-3">
                 <figcaption>FiFe</figcaption>
-                <a href="https://fifeweb.org/" target="_blank"><img src="img/Fife_Logo_mittel.jpg" class="img-thumbnail" alt=""></a>
+                <a href="https://fifeweb.org/" target="_blank"><img src="img/Fife_logo_mittel.jpg" class="img-thumbnail" alt=""></a>
             </figure>
             <figure class="col-sm-3">
                 <figcaption>KECB</figcaption>
