@@ -24,19 +24,19 @@ Die FFH ist von der *Fédération Internationale Féline (FIFe)* als einziger Ve
     <div class="row">
             <figure class="col-sm-3">
                 <figcaption>FFH</figcaption>
-                <a href="https://www.ffh.ch" target="_blank"><img src="img/FFH_Logo_mittel.jpg" class="img-thumbnail" alt=""></a>
+                <a class="icon-link" href="https://www.ffh.ch" target="_blank"><img src="img/FFH_Logo_mittel.jpg" class="img-thumbnail" width="96" height="96" alt=""></a>
             </figure>
             <figure class="col-sm-3">
                 <figcaption>FiFe</figcaption>
-                <a href="https://fifeweb.org/" target="_blank"><img src="img/Fife_logo_mittel.jpg" class="img-thumbnail" alt=""></a>
+                <a class="icon-link" href="https://fifeweb.org/" target="_blank"><img src="img/Fife_logo_mittel.jpg" class="img-thumbnail" width="96" height="96" alt=""></a>
             </figure>
             <figure class="col-sm-3">
                 <figcaption>KECB</figcaption>
-                <a href="https://www.kecb.ch" target="_blank"><img src="img/KECB_Logo_gelb.jpg" class="img-thumbnail" alt=""></a>
+                <a class="icon-link" href="https://www.kecb.ch" target="_blank"><img src="img/KECB_Logo_gelb.jpg" class="img-thumbnail" width="96" height="96" alt=""></a>
             </figure>
             <figure class="col-sm-3">
                 <figcaption>BKS</figcaption>
-                <a href="https://www.britisch-kurzhaar.org" target="_blank"><img src="img/Logog_BKS.jpg" class="img-thumbnail" alt=""></a>
+                <a class="icon-link" href="https://www.britisch-kurzhaar.org" target="_blank"><img src="img/Logog_BKS.jpg" class="img-thumbnail" width="96" height="96" alt=""></a>
             </figure>
     </div>
 </div>
