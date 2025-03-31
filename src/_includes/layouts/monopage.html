@@ -14,7 +14,7 @@
     <div class="row">
         <div class="col-sm-{{ item.data.layoutcols.text }} newsreader-heading">
             <h2 id="{{ item.data.shortname }}">{{ item.data.title }}</h2>
-            <p><strong><em> {{ item.data.summary }}</em></strong></p>
+            <p class="lead"> {{ item.data.summary }}</p>
             <p> {{ item.content | safe }}</p>
             
         </div>

@@ -4,12 +4,17 @@
   "description": "",
   "main": ".eleventy.js",
   "scripts": {
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "deploy": "npm run build && npx gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
