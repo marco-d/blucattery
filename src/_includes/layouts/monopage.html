@@ -16,15 +16,19 @@
             <h2 id="{{ item.data.shortname }}">{{ item.data.title }}</h2>
             <p><strong><em> {{ item.data.summary }}</em></strong></p>
             <p> {{ item.content | safe }}</p>
-            <p><a href="#">top</a></p>
+            
         </div>
         <div class="col-sm-{{ item.data.layoutcols.img }}">
             <figure>
                 <img src={{ item.data.img.src }} class="img-fluid" alt="">
                 <figcaption>{{ item.data.img.desc }}</figcaption>
             </figure>
+            {{ item.data.embedcode | safe }}
+            
         </div>
+        <p><a href="#" class="backbutton"> ▲ top </a></p>
     </div>
+    <hr>
 </section>
 {% endfor %}
 {% endblock %}

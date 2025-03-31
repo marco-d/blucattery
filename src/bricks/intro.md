@@ -12,6 +12,7 @@ img:
 layoutcols: 
   text: 5
   img: 7
+embedcode: ''
 ---
 
 _von Blumenberg_ ist eine kleine **Britisch Kurzhaar (BKH)** Familienzucht in Bern, die zucht Britisch Kurzhaar Katzen in diversen Farben.

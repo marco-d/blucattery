@@ -11,12 +11,12 @@ img:
 layoutcols:
   text: 12
   img:
+embedcode: ''
 ---
 
 **Unser Tierarzt**
-* [Kleintierpraxis Aare Nord AG](https://www.aarenord.ch)
+<a href="https://www.aarenord.ch" target="_blank">Kleintierpraxis Aare Nord AG</a>
 
 Webseiten von befreundeten **Züchtern und Katzenfans**
-* [ansalutio](https://www.ansalutio-bkh.ch)
-
-* [katialia](https://www.kalia-liya.jimdosite.com)
+<a href="https://www.ansalutio-bkh.ch" target="_blank">BKH von Ansalutio</a>
+<a href="https://kalia-liya.jimdosite.com/" target="_blank">Kalia Liya</a>

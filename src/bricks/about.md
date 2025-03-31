@@ -12,6 +12,7 @@ img:
 layoutcols: 
   text: 5
   img: 7
+embedcode: ''
 ---
 
 Ich bin Valeria und wohne seit 10 Jahren mit meinem Mann Marco und unseren Kindern Matilde (geb. 2016) und Lorenzo (geb. 2018) im Breitsch Quartier in Bern. Im Februar 2023 ist Milou, eine sehr süsse British Shorthair Blue, zu unserer Familie gestossen.

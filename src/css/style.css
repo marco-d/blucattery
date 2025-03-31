@@ -34,6 +34,19 @@ h2, h3, h4 {
 
 }
 
+p a {
+    background-color: rgb(139, 121, 157);
+    color: white;
+    padding: 2pt;
+    border-radius: 3pt;
+    text-decoration: none;
+}
+
+p a:hover {
+    background-color: rgb(220, 90, 35);
+    color: white;
+}
+
 .themecolor {
     color: rgb(139, 121, 157);
 }
@@ -46,4 +59,13 @@ h2, h3, h4 {
 .logos {
     max-width: 60px;
     height: auto;
+}
+
+.backbutton {
+    text-align: center;
+    float: left ;
+    min-width: 48px;
+    background-color:  rgba(139, 121, 157, 0.3) ;
+    color:  rgb(139, 121, 157);
+    padding:3pt;
 }
