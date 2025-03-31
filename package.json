@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npx eleventy --serve",
     "build": "npx eleventy",
-    "deploy": "npm run build && npx gh-pages -d dist"
+    "deploy": "npx gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
