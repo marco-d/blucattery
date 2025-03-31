@@ -3,7 +3,7 @@ title: 'Über uns'
 navtitle: 'Über uns'
 shortname: 'cattery'
 summary: ''
-displayOrder: 8
+displayOrder: 20
 featured: true
 img: 
   src: "" 

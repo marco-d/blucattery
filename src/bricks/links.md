@@ -3,7 +3,7 @@ title: 'Links'
 navtitle: 'Links'
 shortname: 'links'
 summary: ''
-displayOrder: 45
+displayOrder: 70
 featured: true
 img: 
   src: "" 
@@ -20,3 +20,5 @@ embedcode: ''
 Webseiten von befreundeten **Züchtern und Katzenfans**
 <a href="https://www.ansalutio-bkh.ch" target="_blank">BKH von Ansalutio</a>
 <a href="https://kalia-liya.jimdosite.com/" target="_blank">Kalia Liya</a>
+
+{% include "partials/testpartial.html" %}

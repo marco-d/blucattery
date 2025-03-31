@@ -3,7 +3,7 @@ title: 'Unsere Katze'
 navtitle: 'Katzen'
 shortname: 'cats'
 summary: ''
-displayOrder: 10
+displayOrder: 30
 featured: true
 img: 
   src: "img/Milou_studio.jpg" 

@@ -3,7 +3,7 @@ title: 'Herzlich Willkommen bei Cattery von Blumenberg!'
 navtitle: 'Home'
 shortname: 'intro'
 summary: ''
-displayOrder: 5
+displayOrder: 10
 featured: true
 img: 
   src: "img/Milou_0001.jpg" 
@@ -15,8 +15,10 @@ layoutcols:
 embedcode: ''
 ---
 
-_von Blumenberg_ ist eine kleine **Britisch Kurzhaar (BKH)** Familienzucht in Bern, die zucht Britisch Kurzhaar Katzen in diversen Farben.
-Wir sind Mitglied vom Katzen- und Edelkatzenclub Bern/FFH (KECB) und unsere Zucht ist bei der Fédération Féline Helvétique (FFH) registriert. Die FFH ist von der *Fédération Internationale Féline (FIFe)* als einziger Verband der Schweiz anerkannt.
+_von Blumenberg_ ist eine kleine <a href="https://fifeweb.org/cats/breeds/british-longhair-shorthair/#:~:text=The%20British%20is%20a%20large,forehead%2C%20round%20tip%20of%20ears." target="_blank">Britisch Kurzhaar (BKH)</a> Familienzucht in Bern, die Britisch Kurzhaar Katzen in diversen Farben zucht.
+Wir sind Mitglied vom _Katzen- und Edelkatzenclub Bern/FFH_ (KECB) und unsere Zucht ist bei der _Fédération Féline Helvétique_ (FFH) registriert.
+
+Die FFH ist von der *Fédération Internationale Féline (FIFe)* als einziger Verband der Schweiz anerkannt.
 
 <div class="container bg-light p-2" >
     <div class="row">

@@ -3,7 +3,7 @@ title: 'Kitten'
 navtitle: 'Kitten'
 shortname: 'kitten'
 summary: 'Der nächste Wurf ist für die Osterzeit geplant, um den 19/20 April 2025!'
-displayOrder: 20
+displayOrder: 40
 featured: true
 img: 
   src:  

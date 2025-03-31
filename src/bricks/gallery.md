@@ -3,7 +3,7 @@ title: 'Fotos'
 navtitle: 'Gallery'
 shortname: 'photos'
 summary: 'Bilder aus dem Alltag bei von Blumenberg'
-displayOrder: 30
+displayOrder: 50
 featured: true
 img: 
   src:  
