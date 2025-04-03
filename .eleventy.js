@@ -1,6 +1,7 @@
 module.exports = (config) => {
     config.addPassthroughCopy('./src/img/');
     config.addPassthroughCopy('./src/css/');
+    config.addPassthroughCopy("./src/CNAME");
     // Returns work items, sorted by display order
 config.addCollection('bricks', (collection) => {
 	return collection
