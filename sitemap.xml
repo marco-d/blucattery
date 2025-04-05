@@ -1,44 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-        <url>
-            <loc>/bricks/about/</loc>
-            <lastmod>2025-04-03T20:51:18.580Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/bricks/contact/</loc>
-            <lastmod>2025-04-03T20:51:18.581Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/bricks/gallery/</loc>
-            <lastmod>2025-04-03T20:51:18.581Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/bricks/intro/</loc>
-            <lastmod>2025-04-03T20:51:18.582Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/bricks/katzen/</loc>
-            <lastmod>2025-04-03T20:51:18.582Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/bricks/kitten/</loc>
-            <lastmod>2025-04-03T20:51:18.583Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/bricks/links/</loc>
-            <lastmod>2025-04-03T20:51:18.583Z</lastmod>
-        </url>
-    
+   
         <url>
             <loc>/</loc>
-            <lastmod>2025-04-03T20:51:18.640Z</lastmod>
+            <lastmod>2025-04-03T20:51:18.641Z</lastmod>
         </url>
     
 </urlset>
