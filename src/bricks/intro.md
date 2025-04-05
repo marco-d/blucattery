@@ -1,5 +1,5 @@
 ---
-title: 'Herzlich Willkommen bei Cattery von Blumenberg!'
+title: 'Herzlich Willkommen!'
 navtitle: 'Home'
 shortname: 'intro'
 summary: ''
