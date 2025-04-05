@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /bricks/
 Allow: /
 
 Sitemap: https://cattery-vonblumenberg.ch/sitemap.xml
