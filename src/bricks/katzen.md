@@ -1,5 +1,5 @@
 ---
-title: 'Unsere Katze'
+title: '🐈‍⬛ Unsere Katze'
 navtitle: 'Katzen'
 shortname: 'cats'
 summary: ''

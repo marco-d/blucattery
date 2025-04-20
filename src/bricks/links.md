@@ -1,5 +1,5 @@
 ---
-title: 'Links'
+title: '🔗 Links'
 navtitle: 'Links'
 shortname: 'links'
 summary: ''

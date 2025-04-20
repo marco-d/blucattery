@@ -1,5 +1,5 @@
 ---
-title: 'Kontakt'
+title: '✉️ Kontakt'
 navtitle: 'Kontakt'
 shortname: 'contactform'
 summary: 'Sind Sie an unseren Welpen interessiert?  Möchten Sie mehr über die aktuelle Verfügbarkeit von Welpen erfahren? Oder einfach eine Frage stellen?'

@@ -1,5 +1,5 @@
 ---
-title: 'Herzlich Willkommen!'
+title: '🩶 Herzlich Willkommen!'
 navtitle: 'Home'
 shortname: 'intro'
 summary: ''

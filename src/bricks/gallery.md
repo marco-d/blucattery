@@ -1,5 +1,5 @@
 ---
-title: 'Fotos'
+title: '🎞️ Fotos'
 navtitle: 'Gallery'
 shortname: 'photos'
 summary: 'Bilder aus dem Alltag bei von Blumenberg'

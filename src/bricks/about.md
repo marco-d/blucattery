@@ -1,17 +1,17 @@
 ---
-title: 'Über uns'
+title: '👨🏻‍👩🏻‍👧🏻‍👦🏻 Über uns'
 navtitle: 'Über uns'
 shortname: 'cattery'
 summary: ''
 displayOrder: 20
 featured: true
 img: 
-  src: "" 
-  desc: ""
+  src: "img/Milou_couch.jpg" 
+  desc: "Milou entspannt sich im Wohnzimmer während der Trächtigkeit."
 # layoutcols must sum up 12.
 layoutcols: 
-  text: 12
-  img: 
+  text: 5
+  img: 7
 embedcode: ''
 ---
 
