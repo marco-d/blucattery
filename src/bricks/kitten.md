@@ -9,8 +9,8 @@ img:
   src: 'img/Schoggikitten_bg-weiss.png'
   desc: 'Ostern hat uns ein süsses Geschenk gebracht :-)'
 layoutcols:
-  text: 7
-  img: 5
+  text: 8
+  img: 4
 embedcode: ''
 ---
 
@@ -31,7 +31,13 @@ Sie können uns gerne über [Kontaktformular](#contact-form) erreichen.
   </thead>
   <tbody>
     <tr>
-      <td>Mirtilla</td>
+      <td>Martino</td>
+      <td>♂️</td>
+      <td>Blue</td>
+      <td>20.04.2025</td>
+    </tr>  
+    <tr>
+      <td>Melissa</td>
       <td>♀️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
@@ -45,12 +51,6 @@ Sie können uns gerne über [Kontaktformular](#contact-form) erreichen.
     <tr>
       <td>Minerva</td>
       <td>♀️</td>
-      <td>Blue</td>
-      <td>20.04.2025</td>
-    </tr>  
-    <tr>
-      <td>Martino</td>
-      <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
     </tr>  
