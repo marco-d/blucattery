@@ -80,3 +80,15 @@ p a:hover {
     color:  rgb(139, 121, 157);
     padding:3pt;
 }
+
+.lilatable td, .lilatable th {
+    color: rgb(139, 121, 157);
+}
+
+.hired {
+    color: #d06161;
+    background-color: #f3c5c5 ;
+    border-radius: 5px;
+    padding: 10px;
+    font-size:xx-large;
+}
