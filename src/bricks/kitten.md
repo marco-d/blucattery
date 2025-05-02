@@ -15,10 +15,11 @@ embedcode: ''
 ---
 
 <p class="lead">20.04.2025 Am Ostersonntag haben wir <mark>einen neuen Wurf bekommen!</mark></p>
+In der Tabelle unten findest du eine Liste der Jungtiere, die alle fit sind und mit viel Liebe und unter der Obhut ihrer Mama aufwachsen.
 
-Bei Interesse dürfen die Kleinen gerne reserviert und besucht werden.
+⚠️ Die in der Tabelle angegebene Fellfarbe ist lediglich ein Hinweis auf die bei der Geburt erkennbare *Grundfarbe*: In den folgenden Wochen können sich Variationen oder Einzigartigkeiten zeigen!
 
-Sie können uns gerne über [Kontaktformular](#contact-form) erreichen.
+Bei Interesse dürfen die Kleinen gerne **reserviert** und **besucht** werden. Sie können uns gerne über [Kontaktformular](#contact-form) erreichen.
 
 <table class="table lilatable">
   <thead>
@@ -49,8 +50,8 @@ Sie können uns gerne über [Kontaktformular](#contact-form) erreichen.
       <td>20.04.2025</td>
     </tr>  
     <tr>
-      <td>Minerva</td>
-      <td>♀️</td>
+      <td>Milo</td>
+      <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
     </tr>  

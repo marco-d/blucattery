@@ -11,9 +11,9 @@
 {% block contentstack %}
 {% for item in collections.bricks %}
 <section class="container-fluid bg-light p-2" >
-    <div class="row">
+    <div class="row" id="{{ item.data.shortname }}">
         <div class="col-sm-{{ item.data.layoutcols.text }} newsreader-heading">
-            <h2 id="{{ item.data.shortname }}">{{ item.data.title }}</h2>
+            <h2>{{ item.data.title }}</h2>
             <p class="lead"> {{ item.data.summary }}</p>
             <p> {{ item.content | safe }}</p>
             
