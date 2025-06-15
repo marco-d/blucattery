@@ -14,7 +14,7 @@ layoutcols:
 embedcode: ''
 ---
 
-<p class="lead">20.04.2025 Am Ostersonntag haben wir <mark>einen neuen Wurf bekommen!</mark></p>
+<p class="lead">von Blumenberg hat zuletzt am 20.04.2025 einen Wurf bekommen!</p>
 In der Tabelle unten findest du eine Liste der Jungtiere, die alle fit sind und mit viel Liebe und unter der Obhut ihrer Mama aufwachsen.
 
 ⚠️ Die in der Tabelle angegebene Fellfarbe ist lediglich ein Hinweis auf die bei der Geburt erkennbare *Grundfarbe*: In den folgenden Wochen können sich Variationen oder Einzigartigkeiten zeigen!
@@ -26,8 +26,9 @@ Bei Interesse dürfen die Kleinen gerne **reserviert** und **besucht** werden. S
     <tr>
       <th scope="col">Name</th>
       <th scope="col">Geschlecht</th>
-      <th scope="col">Farbe</th>
+      <th scope="col">Fell</th>
       <th scope="col">Geburt</th>
+      <th scope="col">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -36,24 +37,28 @@ Bei Interesse dürfen die Kleinen gerne **reserviert** und **besucht** werden. S
       <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
+      <td>⚠️ reserviert</td>
     </tr>  
     <tr>
       <td>Melissa</td>
       <td>♀️</td>
-      <td>Blue</td>
+      <td>Blue-cream tortoise</td>
       <td>20.04.2025</td>
+      <td>✅ vergeben</td>
     </tr>  
     <tr>
-      <td>Mercurio</td>
+      <td>Mirto</td>
       <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
+      <td>⚠️ reserviert</td>
     </tr>  
     <tr>
       <td>Milo</td>
       <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
+      <td>⚠️ reserviert</td>
     </tr>  
   </tbody>
 </table>

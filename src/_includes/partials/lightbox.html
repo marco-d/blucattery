@@ -1,0 +1,28 @@
+
+
+<div class="container-fluid"> {# Contenitore Bootstrap con margini orizzontali #}
+  <div class="row g-3"> {# Inizia la riga, con gutter (gap) tra colonne #}
+
+    {% for image in collections.galleryImages %}
+      <div>
+        {# 
+          Ogni immagine occupa:
+          - 6 colonne su schermi piccoli (2 per riga)
+          - 4 su schermi medi (3 per riga)
+          - 3 su desktop (4 per riga)
+        #}
+
+        <a href="{{ image.full }}" class="glightbox d-block" data-gallery="cats">
+          <img 
+            src="{{ image.thumb }}" 
+            alt="{{ image.alt }}" 
+            class="img-fluid"
+          />
+        </a>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>
+
+

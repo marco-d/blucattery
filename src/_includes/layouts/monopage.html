@@ -33,6 +33,29 @@
 {% endfor %}
 {% endblock %}
 
+{% block lightboxgallery %}
+    <div class="container-fluid"> {# Contenitore Bootstrap con margini orizzontali #}
+  <div class="row g-3"> {# Inizia la riga, con gutter (gap) tra colonne #}
+
+    {% for image in collections.galleryImages %}
+      <div class="col-6 col-md-4 col-lg-3">
+       
+        <a href="{{ image.full }}" class="glightbox d-block" data-gallery="cats">
+          <img 
+            src="{{ image.thumb }}" 
+            alt="{{ image.alt }}" 
+            class="img-fluid rounded shadow-sm"
+          />
+        </a>
+      </div>
+    {% endfor %}
+
+  </div>
+</div>
+
+{% endblock %}
+
+
 {% block footerinfo %}
 {{ footinfo }}
 {% endblock %}
