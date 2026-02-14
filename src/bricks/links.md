@@ -3,7 +3,7 @@ title: '🔗 Links'
 navtitle: 'Links'
 shortname: 'links'
 summary: ''
-displayOrder: 70
+displayOrder: 60
 featured: true
 img: 
   src: "" 

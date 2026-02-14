@@ -6,15 +6,14 @@ summary: ''
 displayOrder: 40
 featured: true
 img: 
-  src: 'img/Schoggikitten_bg-weiss.png'
-  desc: 'Ostern hat uns ein süsses Geschenk gebracht :-)'
+  src: 'img/Milo_rolling.jpg'
+  desc: 'Milo von Blumenberg, im Alter von drei Monaten.'
 layoutcols:
-  text: 8
-  img: 4
+  text: 7
+  img: 5
 embedcode: ''
 ---
 
-<p class="lead">von Blumenberg hat zuletzt am 20.04.2025 einen Wurf bekommen!</p>
 In der Tabelle unten findest du eine Liste der Jungtiere, die alle fit sind und mit viel Liebe und unter der Obhut ihrer Mama aufwachsen.
 
 ⚠️ Die in der Tabelle angegebene Fellfarbe ist lediglich ein Hinweis auf die bei der Geburt erkennbare *Grundfarbe*: In den folgenden Wochen können sich Variationen oder Einzigartigkeiten zeigen!
@@ -37,7 +36,7 @@ Bei Interesse dürfen die Kleinen gerne **reserviert** und **besucht** werden. S
       <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
-      <td>⚠️ reserviert</td>
+      <td>✅ vergeben</td>
     </tr>  
     <tr>
       <td>Melissa</td>
@@ -51,14 +50,14 @@ Bei Interesse dürfen die Kleinen gerne **reserviert** und **besucht** werden. S
       <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
-      <td>⚠️ reserviert</td>
+      <td>✅ vergeben</td>
     </tr>  
     <tr>
       <td>Milo</td>
       <td>♂️</td>
       <td>Blue</td>
       <td>20.04.2025</td>
-      <td>⚠️ reserviert</td>
+      <td>✅ vergeben</td>
     </tr>  
   </tbody>
 </table>

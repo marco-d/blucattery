@@ -19,3 +19,5 @@ Ich bin die Valeria und lebe seit zehn Jahren mit meinem Mann Marco und unseren 
 
 Im Februar 2023 ist unsere Familie um die bezaubernde Milou erweitert worden - eine süsse und kuschelige British Shorthair Blue.
 Wir haben uns sofort in sie verliebt und beschlossen, eine Familienzucht von Britisch Kurzhaar zu gründen.
+
+Seit dem Frühjahr 2025 ist auch Melissa bei uns, eine lebhafte und unermüdliche Tortie, die zu Hause in unserem allerersten Wurf geboren wurde.

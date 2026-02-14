@@ -3,7 +3,7 @@ title: '🎞️ Fotos'
 navtitle: 'Gallery'
 shortname: 'photos'
 summary: 'Bilder aus dem Alltag bei von Blumenberg'
-displayOrder: 50
+displayOrder: 70
 featured: true
 img: 
   src:  
@@ -33,6 +33,10 @@ Frische **Nachrichten und Bilder**: Instagram feed von <a href="https://www.inst
       <img src="../img/Milou_betreut.jpg" class="img-fluid rounded shadow" alt="...">
     </div>
   </div>
+
+<div class="container-fluid"> {# Contenitore Bootstrap con margini orizzontali #}
+  <div class="row g-3"> {# Inizia la riga, con gutter (gap) tra colonne #}
+
 </div>
 
 

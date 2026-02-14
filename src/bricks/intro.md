@@ -1,9 +1,9 @@
 ---
-title: '🩶 Herzlich Willkommen!'
+title: 'Herzlich Willkommen!'
 navtitle: 'Home'
 shortname: 'intro'
 summary: ''
-displayOrder: 10
+displayOrder: 9
 featured: true
 img: 
   src: "img/Milou_0001.jpg" 
