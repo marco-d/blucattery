@@ -10,8 +10,8 @@ img:
   desc: "Milou mit ihren neugeborenen Kitten beim ersten Säugen, am 18.03.2026"
 # layoutcols must sum up 12.
 layoutcols: 
-  text: 5
-  img: 7
+  text: 7
+  img: 5
 embedcode: ''
 ---
 
