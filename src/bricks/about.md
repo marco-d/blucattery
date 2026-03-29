@@ -6,8 +6,8 @@ summary: ''
 displayOrder: 20
 featured: true
 img: 
-  src: "img/Milou_couch.jpg" 
-  desc: "Milou entspannt sich im Wohnzimmer während der Trächtigkeit."
+  src: "img/Melissa_rehearsal.jpeg" 
+  desc: "Unsere kuschelige Melissa, geboren im April 2025."
 # layoutcols must sum up 12.
 layoutcols: 
   text: 5
